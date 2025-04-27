@@ -61,5 +61,6 @@ Served over HTTPS to ensure data security and prevent interception.
 7. Push Notifications:
 
 Allows engagement with users even when the app is not active.
+![Image](https://github.com/user-attachments/assets/c7367d51-8355-418e-9a98-3b2286a15abd)
 
 
